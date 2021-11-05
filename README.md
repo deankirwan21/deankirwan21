@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @deankirwan21
+- 👀 I’m interested in all things automation
+- 🌱 I’m currently learning aws solutions arichitect 
